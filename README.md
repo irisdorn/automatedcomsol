@@ -74,8 +74,7 @@ model.sol('sol1').clearSolutionData(); %Clear solution 1
 ```
 
 ## Contents:
-
-__AutomationMinimaCount.m__
+[AutomationMinimaCount.m](https://github.com/irisdorn/automatedcomsol/blob/master/AutomationMinimaCount.m "AutomationMinimaCount.m")
 
 This file sets a start value for two parameters. A while loop sets an upper limit for one particular parameter. 
 
