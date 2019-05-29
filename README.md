@@ -17,7 +17,7 @@ Linking Comsol with MATLAB allowed us to automate several tasks and each task is
  
 1. Launch COMSOL Multiphysics® (Your Version) with MATLAB® Program
 
-_Make sure all other programs, even COMSOL and MATLAB standlones, are closed. This singular program will control both._
+_Make sure all other programs, even COMSOL and MATLAB standalones, are closed. This singular program will control both._
 
 2. Load model from command line or into .m file 
 
