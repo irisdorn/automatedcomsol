@@ -30,6 +30,6 @@ for i = 1:90 %length of your data, can use numel(j) or numel(d)
     plot(x,Y,x(TF1),Y(TF1), 'r*') %plot minima for check
     axis tight;
     for idx=1:numel(xmin)
-        xMinLocations(end+1,:)=[d(i),xmin(idx)]; %add delta and j value to list
+        xMinLocations(end+1,:)=[d(i),j(i),xmin(idx)]; %add delta and j value to list
     end
 end
