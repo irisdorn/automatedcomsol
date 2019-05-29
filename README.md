@@ -78,7 +78,7 @@ model.sol('sol1').clearSolutionData(); %Clear solution 1
 
 This file sets a start value for two parameters. A while loop sets an upper limit for one particular parameter. 
 
-The m file automated the following tasks:
+The AutomationMinimaCount.m file automated the following tasks:
 
 * Setting the new parameters
 * Running the study
@@ -93,3 +93,21 @@ or
   * A filename is created from the parameter values
   * The plot is created with title and marking of the minima in with red star marker
   * The plot is saved as a png and the parameters in the while loop is varied
+
+[MinimaLocations.m](https://github.com/irisdorn/automatedcomsol/blob/master/MinimaLocations.m "MinimaLocations.m")
+
+The MinimaLocations.m file automated the following tasks:
+
+* Loads a .mat data set and stores the columns/parameters
+* For loop over all elements
+* Load model and clear solution data
+* Set parameters 
+* Run study 
+* Run plot
+* Export plot data
+* Import plot txt file
+* Checks that plot is not empty and prints error message
+* Else finds locations of minima
+* Stores unique values of minima locations
+* Plots these locations
+* Stores each location in list with paramaters
