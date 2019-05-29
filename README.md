@@ -75,7 +75,7 @@ model.sol('sol1').clearSolutionData(); %Clear solution 1
 
 ## Contents:
 
-__MinCount.m__
+__AutomationMinimaCount.m__
 
 This file sets a start value for two parameters. A while loop sets an upper limit for one particular parameter. 
 
