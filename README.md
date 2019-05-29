@@ -3,7 +3,15 @@
 
 ## Automatization of COMSOL Multiphysics® Model utilizing LiveLink™ for MATLAB®
 
-Contains: Various .m files of code in MATLAB® for automating COMSOL Multiphysics® 
+Various .m files of code in MATLAB® for automating COMSOL Multiphysics® 
+
+* __[Required Software](https://github.com/irisdorn/automatedcomsol#required-software "Required Software")__
+* __[Few tips for getting started](https://github.com/irisdorn/automatedcomsol#few-tips-for-getting-started "Few tips for getting started")__
+* __[Other Useful Code](https://github.com/irisdorn/automatedcomsol#other-useful-code "Other Useful Code")__
+* __[Contents](https://github.com/irisdorn/automatedcomsol#contents "Contents")__
+
+
+
 
 ## Required Software
 * [COMSOL Multiphysics®](https://www.comsol.com/comsol-multiphysics "COMSOL Multiphysics®")
