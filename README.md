@@ -18,8 +18,8 @@ Various .m files of code in MATLAB® for automating COMSOL Multiphysics®
   * With [LiveLink™ for MATLAB®](https://www.comsol.com/livelink-for-matlab "LiveLink™ for MATLAB®")
 * [MATLAB®](https://www.mathworks.com/products/matlab.html "MATLAB®")
 
-This series of automation .m files were applied to 1D Josephson junction COMSOL model. This particular model was created by implementing the set of Ginzburg-Landau equations into COMSOL’s time-dependent equation based module with the general coefficient form. 
-Linking Comsol with MATLAB allowed us to automate several tasks and each task is described below and in the .m files.
+This series of automation .m files were applied to superconducting 1d wire COMSOL model. This particular model was created by implementing the set of Ginzburg-Landau equations into COMSOL’s time-dependent equation based module with the general coefficient PDE form. 
+Linking Comsol with MATLAB allowed us to automate several tasks for finding solutions and each task is described below and in the .m files.
 
 ### Few tips for getting started
  
