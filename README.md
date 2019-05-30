@@ -50,7 +50,7 @@ or
 mphnavigator
 ```
 
-_mphnavigator allows you access to the elements and subproperties of your model. Here is where you will find the tags for your model and can vary this code according to your tag's models. There are many useful lines of code that can be extracted using the 'Copy Get' or 'Copy Set' options in this window._
+_mphnavigator allows you access to the elements and subproperties of your model. Here is where you will find the tags for your model and can vary this code according to your model's tags. There are many useful lines of code that can be extracted using the 'Copy Get' or 'Copy Set' options in this window._
 
 
 #### Other Useful Code
