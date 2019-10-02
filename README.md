@@ -19,6 +19,8 @@ Various .m files of code in MATLAB® for automating COMSOL Multiphysics®
 * [MATLAB®](https://www.mathworks.com/products/matlab.html "MATLAB®")
 
 This series of automation .m files were applied to superconducting 1d wire COMSOL model. This particular model was created by implementing the set of Ginzburg-Landau equations into COMSOL’s time-dependent equation based module with the general coefficient PDE form. 
+Videos generated from COMSOL can be viewed at this link:
+[Phase Slip Center Videos](https://drive.google.com/open?id=1LHiltQ7Yn5N-5bT32BKTi9s9cc6MWQtE "PSC Videos")
 Linking Comsol with MATLAB allowed us to automate several tasks for finding solutions and each task is described below and in the .m files.
 
 ### Few tips for getting started
